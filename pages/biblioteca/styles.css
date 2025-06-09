@@ -1,0 +1,64 @@
+body{
+   background-color:rgb(32, 32, 32)  ;
+}
+.pin{
+    margin-left: 158px;
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 460px;
+    align-items: center;
+    padding: 30px;
+    
+}
+
+.linkss{
+   color: white;
+   font-size: 23px;
+}
+.link{
+    display: flex;
+    gap: 20px;
+}
+.imagemsteam{
+    margin-left: 129px;
+}
+.meusjogos{
+    margin-left: 156px;
+      display: flex;
+   
+   padding:10px;
+}
+.nomedojogo{
+   margin-left: 256px;
+   margin-top: -120 ;
+   
+}
+.todosjogos{
+    margin-top:100px;
+    
+}
+.informacaoparadownload{
+    margin-left: 256px;
+   margin-top: -10px;
+}
+.jogosdownload{
+    margin-top: 110px;
+    background-color: rgb(70, 70, 70);
+    padding: 50px;
+    width: 900px;
+}
+
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+.bora{
+      width: 243px;
+    height: 150px;
+}
